@@ -9,5 +9,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: 'https://alexouuuuuuuuuuu.github.io',
+  base: '/projet2'
 
 });
